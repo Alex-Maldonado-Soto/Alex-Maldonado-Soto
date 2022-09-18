@@ -1,6 +1,6 @@
 # Hola, mundo! 👋
 
-_Soy desarrollador web, me especialiso en el front-end, llevo un año desde que inicie mi camino como desarrollador y eh aprendido en platzi y youtube muchas de las cosas que hago, escribo blogs en Dev community sobre desarrollo front-end [te invito a checarlos](https://dev.to/alexmaldonadosoto)_
+_Soy desarrollador web, me especialiso en el front-end, llevo un año desde que inicie mi camino como desarrollador y eh aprendido en platzi y youtube muchas de las cosas que hago, escribo blogs en Dev community sobre desarrollo front-end [y aqui te invito a checarlos](https://dev.to/alexmaldonadosoto)_
 
 # Tecnologias
 
