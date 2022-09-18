@@ -1,6 +1,6 @@
-### Hola, mundo! 👋
+# Hola, mundo! 👋
 
-_Soy un estudiante de secundaria aficionado al desarrollo web y a los deportes, estudio desarrollo web desde hace un año y me facina el front-end_
+_Soy desarrollador web, me especialiso en el front-end, llevo un año desde que inicie mi camino como desarrollador y eh aprendido en platzi y youtube muchas de las cosas que hago, escribo blogs en Dev community sobre desarrollo front-end [te invito a checarlos](https://dev.to/alexmaldonadosoto)_
 
 # Tecnologias
 
