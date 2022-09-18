@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hola, mundo! 👋
 
-<!--
-**Alex-Maldonado-Soto/Alex-Maldonado-Soto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_Soy un estudiante de secundaria aficionado al desarrollo web y a los deportes, estudio desarrollo web desde hace un año y me facina el front-end_
 
-Here are some ideas to get you started:
+# Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. Javascript
+2. HTMl/Css
+3. Git/Github
+4. Bootstrap
+5. Less 
+6. Sass
+7. Pug
+8. Gsap
+
+# Portafolio
+
+(https://alex-maldonado-soto.github.io/portafolio/)
+
+_Te invito a conocerlo y ver mis proyectos_
