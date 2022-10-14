@@ -15,9 +15,6 @@ _Soy desarrollador web, me especializo en el front-end, llevo un año desde que 
 
 # Portafolio
 
- ![Screenshot from 2022-09-18 11-45-18](https://user-images.githubusercontent.com/102703273/190922339-31ceef25-6f5a-4118-92ea-f7c681ad05a4.png)
-
-
 https://alex-maldonado-soto.github.io/portafolio/
 
 _Te invito a conocerlo y ver mis proyectos_
