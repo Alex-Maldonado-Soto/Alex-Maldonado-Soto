@@ -1,20 +1,10 @@
 # Hola, mundo! 👋
 
-_Soy desarrollador web, me especializo en el front-end, llevo un año desde que inicie mi camino como desarrollador y eh aprendido en platzi y youtube muchas de las cosas que hago, escribo blogs en Dev community sobre desarrollo front-end [y aqui te invito a checarlos](https://dev.to/alexmaldonadosoto)_
+_Soy desarrollador web, me especializo en el Front-end, Tengo experiencia con una variedad de tecnologias y lenguajes de programación. Puedo desarrollar sitios web que sean receptivos, fáciles de usar y brinden una excelente experiencia al usuario. Ademas, tambien escribo posts en Dev Community. [aqui puedes verlos](https://dev.to/alexmaldonadosoto)_
 
-# Tecnologias
+Mis tecnologias
 
-1. Javascript
-2. HTMl/Css
-3. Git/Github
-4. Bootstrap
-5. Less 
-6. Sass
-7. Pug
-8. Gsap
+Javascript HTML/CSS Git/Github Bootstrap Less Sass Pug Gsap
 
-# Portafolio
+_Mi portafolio:_ https://alex-maldonado-soto.github.io/portafolio/
 
-https://alex-maldonado-soto.github.io/portafolio/
-
-_Te invito a conocerlo y ver mis proyectos_
