@@ -1,6 +1,6 @@
 # Hola, mundo! 👋
 
-_Soy un desarrollador web apasionado al front-end, la accesibilidad y Javascript.
+_Soy un desarrollador web apasionado al front-end, la accesibilidad y Javascript._
 
 Mis tecnologias
 
