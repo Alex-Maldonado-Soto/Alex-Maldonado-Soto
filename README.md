@@ -6,5 +6,4 @@ Mis tecnologias
 
 Javascript HTML/CSS Git/Github Bootstrap Less Sass Pug React.js Material UI
 
-_Mi portafolio:_ https://alex-maldonado-soto.github.io/portafolio/
-
+_Mi portafolio:_ https://portfolio-maldexanders-projects.vercel.app/
